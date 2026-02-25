@@ -1,0 +1,4 @@
+openai>=1.54.0
+pydantic>=2.7.0,<3.0.0
+ipykernel>=6.29.0
+pandas>=2.2.0
